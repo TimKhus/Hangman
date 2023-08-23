@@ -12,7 +12,6 @@ public class WordReader {
         }
         Random rand = new Random();
         int randInt = rand.nextInt(words.size());
-        String randWord = words.get(randInt);
-        return randWord;
+        return words.get(randInt);
     }
 }
