@@ -1,9 +1,5 @@
 # Hangman
-Проект “виселица”
-Задача - реализовать игру “виселица” на Java. Интерфейс - консольный.
+Project “Gallow” 
+The task is to implement the game “Gallow” in Java. The interface is console.
 
-При старте, приложение предлагает начать новую игру или выйти из приложения
-При начале новой игры, случайным образом загадывается слово, и игрок начинает процесс по его отгадыванию
-После каждой введенной буквы выводим в консоль счётчик ошибок, текущее состояние виселицы (нарисованное ASCII символами)
-По завершении игры выводим результат (победа или поражение) и возвращаемся к
-состоянию №1 - предложение начать новую игру или выйти из приложения
+At startup, the application prompts you to start a new game or exit the application. When you start a new game, a word is randomly guessed, and the player begins the process of guessing it. After each letter entered, we display an error counter in the console, the current state of the gallows (drawn in ASCII characters) Upon completion of the game display the result (victory or defeat) and return to state No. 1 - a proposal to start a new game or exit the application
